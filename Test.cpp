@@ -20,23 +20,6 @@ TEST_CASE("Difrent hats"){
 
 TEST_CASE("Bad snowman code") {
     CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-    CHECK(snowman(11114411) == string("_===_\n(.,.)\n( : )\n( : )"));
-
-
 }
 
 TEST_CASE("worng short input"){
